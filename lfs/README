@@ -1,0 +1,2 @@
+gunzip build-system.tar.gz
+cat build-system.tar | docker import -t build-system 
