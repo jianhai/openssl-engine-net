@@ -2,3 +2,4 @@
 *.gz filter=lfs diff=lfs merge=lfs -text
 *.bz2 filter=lfs diff=lfs merge=lfs -text
 luan.tar.bz2 filter=lfs diff=lfs merge=lfs -text
+centos.tar.bz2 filter=lfs diff=lfs merge=lfs -text
